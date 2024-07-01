@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41170407751",
+    "project_id": "sigin-cf7cb",
+    "storage_bucket": "sigin-cf7cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41170407751:android:e48568ef3893624e01fc62",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4iZTPOEM9rcF1O2sewsFiNH_bO4_AK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
